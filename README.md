@@ -1,1 +1,1 @@
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ShivamIITK21)](https://github.com/anuraghazra/github-readme-stats)
+https://github-readme-stats.vercel.app/api?username=ShivamIITK21&show_icons=true&hide_border=true&border_radius=0&count_private=true&theme=radical
